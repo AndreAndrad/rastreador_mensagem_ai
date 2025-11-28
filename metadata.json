@@ -1,0 +1,5 @@
+{
+  "name": "Rastreador Manager AI",
+  "description": "Logistics management tool for vehicle tracker retrieval with AI-powered data entry and WhatsApp integration.",
+  "requestFramePermissions": []
+}
